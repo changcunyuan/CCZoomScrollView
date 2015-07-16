@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.ios.exclude_files = 'Classes/osx'
   # s.osx.exclude_files = 'Classes/ios'
 
-  s.public_header_files = 'ZoomScrollView/**/*.h'
+  s.public_header_files = 'ZoomScrollView/*.h'
 
   s.frameworks = 'Foundation', 'UIKit'
  
